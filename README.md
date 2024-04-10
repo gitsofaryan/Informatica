@@ -1,7 +1,5 @@
 # Cost-Optimized Data Pipeline with Cloud-Based Infrastructure and Machine Learning In Informatica
 
-![Project Image]
-
 ## Overview
 
 This project focuses on developing a cost-optimized data pipeline leveraging cloud-based infrastructure and machine learning techniques. By analyzing usage patterns (such as seasonal patterns, bursty behavior, predictable workload, and anomalous behavior) and dynamically adjusting resource allocations, our aim is to minimize costs associated with data processing and storage while maintaining performance and reliability.
