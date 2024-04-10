@@ -23,6 +23,6 @@ This project focuses on developing a cost-optimized data pipeline leveraging clo
 
 ## Installation
 
-git clone https://github.com/A-01-hub/Informatica.git
+> git clone https://github.com/A-01-hub/Informatica.git
 
-pip install logging pickle pandas
+> pip install logging pickle pandas
